@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Inventories</string>
+    <string name="empty_view_title_text">No inventory is here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a inventory</string>
+    <string name="editor_activity_title_new_inventory">Add a Inventory</string>
+    <string name="editor_activity_title_edit_inventory">Edit Inventory</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_insert_inventory_successful">Inventory saved</string>
+    <string name="editor_insert_inventory_failed">Error with saving inventory</string>
+    <string name="editor_update_inventory_successful">Inventory updated</string>
+    <string name="editor_update_inventory_failed">Error with updating inventory</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_inventory_successful">Inventory deleted</string>
+    <string name="editor_delete_inventory_failed">Error with deleting inventory</string>
+    <string name="delete_dialog_msg">Delete this inventory?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="hint_inventory_name">Product Name</string>
+    <string name="hint_inventory_price">Price($)</string>
+    <string name="hint_inventory_number">Stock number</string>
+    <string name="unit_inventory_number">packs</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="unknown_price">Unknown price</string>
+    <string name="no_stock">No stock</string>
+    ////////////////
+    <string name="stock_increase_button">Increase Stock</string>
+    <string name="stock_decrease_button">Decrease Stock</string>
+    <string name="stock_supplier_name">Supplier name</string>
+    <string name="stock_supplier_name_hint">Put in supplier name</string>
+    <string name="stock_supplier_phone">Supplier phone</string>
+    <string name="stock_supplier_phone_hint">Put in supplier phone</string>
+    <string name="stock_supplier_phone_button">Contact by phone</string>
+    <string name="stock_supplier_email">Supplier email</string>
+    <string name="stock_supplier_email_hint">Put in supplier email</string>
+    <string name="stock_supplier_email_button">Contact by email</string>
+    <string name="select_image">Choose Image File</string>
+    <string name="sale_button">SALE</string>
+</resources>
